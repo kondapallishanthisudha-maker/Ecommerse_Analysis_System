@@ -56,7 +56,7 @@ The goal is to help businesses understand key order fulfillment metrics such as:
 5. Open `powerbi/dashboard.pbix` in **Power BI Desktop** to view/interact with the dashboard.
 
 ## 📈 Dashboard Preview
-> Add a screenshot of your Power BI dashboard here:
+
 ```
 ![Dashboard Preview](path/to/screenshot.png)
 ```
